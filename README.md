@@ -1,6 +1,15 @@
-# banking_app
+# Banking App
 
-A new Flutter project.
+* The app is used to transfer money between multiple users and also record transactions.
+* This repository contains the app which I made as a mobile app developer in The Sparks Foundation.
+* The app is made with flutter and uses SQLite as a backend.
+
+A mobile app that has the following specs:
+* Start with creating dummy data in mobile (SQLite) database for up to 10 users.
+*  User table will have basic fields such as name, email, current balance, etc. 
+*  Transfers table will record all transfers that happened.
+*  Flow Home Screen --> View all Customers --> Select and View one Customer --> Transfer Money --> Select customer to transfer to --> View all Customers.
+*  No Login Page, No Customer Creation. Only transfer of money between multiple customers.
 
 ## Getting Started
 
